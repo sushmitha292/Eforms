@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1081339921641",
+    "project_id": "eforms-22568",
+    "storage_bucket": "eforms-22568.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081339921641:android:83f54ee65fa68f86231c78",
+        "android_client_info": {
+          "package_name": "com.example.eforms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081339921641-c4o80tsmkoid4v1r8tl74ifm3f7toj5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzzMVoBUvEdX0aIDumGMFyEFFv1SHj4To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081339921641-c4o80tsmkoid4v1r8tl74ifm3f7toj5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
